@@ -1,3 +1,5 @@
+#Edad
+
 edad = int(input("¿Cuántos años tienes?: "))
 n = (0)
 
